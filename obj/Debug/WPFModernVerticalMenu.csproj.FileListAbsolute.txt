@@ -1,0 +1,101 @@
+C:\Users\JEYDERHT\Desktop\UI Controls\WPFModernVerticalMenu\bin\Debug\WPFModernVerticalMenu.exe.config
+C:\Users\JEYDERHT\Desktop\UI Controls\WPFModernVerticalMenu\bin\Debug\WPFModernVerticalMenu.exe
+C:\Users\JEYDERHT\Desktop\UI Controls\WPFModernVerticalMenu\bin\Debug\WPFModernVerticalMenu.pdb
+C:\Users\JEYDERHT\Desktop\UI Controls\WPFModernVerticalMenu\obj\Debug\WPFModernVerticalMenu.csprojAssemblyReference.cache
+C:\Users\JEYDERHT\Desktop\UI Controls\WPFModernVerticalMenu\obj\Debug\Controls\MenuItem.g.cs
+C:\Users\JEYDERHT\Desktop\UI Controls\WPFModernVerticalMenu\obj\Debug\Controls\UserPopup.g.cs
+C:\Users\JEYDERHT\Desktop\UI Controls\WPFModernVerticalMenu\obj\Debug\MainWindow.g.cs
+C:\Users\JEYDERHT\Desktop\UI Controls\WPFModernVerticalMenu\obj\Debug\App.g.cs
+C:\Users\JEYDERHT\Desktop\UI Controls\WPFModernVerticalMenu\obj\Debug\WPFModernVerticalMenu_MarkupCompile.cache
+C:\Users\JEYDERHT\Desktop\UI Controls\WPFModernVerticalMenu\obj\Debug\WPFModernVerticalMenu_MarkupCompile.lref
+C:\Users\JEYDERHT\Desktop\UI Controls\WPFModernVerticalMenu\obj\Debug\App.baml
+C:\Users\JEYDERHT\Desktop\UI Controls\WPFModernVerticalMenu\obj\Debug\Assets\Icons.baml
+C:\Users\JEYDERHT\Desktop\UI Controls\WPFModernVerticalMenu\obj\Debug\Controls\MenuItem.baml
+C:\Users\JEYDERHT\Desktop\UI Controls\WPFModernVerticalMenu\obj\Debug\Controls\UserPopup.baml
+C:\Users\JEYDERHT\Desktop\UI Controls\WPFModernVerticalMenu\obj\Debug\MainWindow.baml
+C:\Users\JEYDERHT\Desktop\UI Controls\WPFModernVerticalMenu\obj\Debug\Themes\DarkTheme.baml
+C:\Users\JEYDERHT\Desktop\UI Controls\WPFModernVerticalMenu\obj\Debug\WPFModernVerticalMenu.g.resources
+C:\Users\JEYDERHT\Desktop\UI Controls\WPFModernVerticalMenu\obj\Debug\WPFModernVerticalMenu.Properties.Resources.resources
+C:\Users\JEYDERHT\Desktop\UI Controls\WPFModernVerticalMenu\obj\Debug\WPFModernVerticalMenu.csproj.GenerateResource.cache
+C:\Users\JEYDERHT\Desktop\UI Controls\WPFModernVerticalMenu\obj\Debug\WPFModernVerticalMenu.csproj.CoreCompileInputs.cache
+C:\Users\JEYDERHT\Desktop\UI Controls\WPFModernVerticalMenu\obj\Debug\WPFModernVerticalMenu.exe
+C:\Users\JEYDERHT\Desktop\UI Controls\WPFModernVerticalMenu\obj\Debug\WPFModernVerticalMenu.pdb
+C:\Users\JEYDERHT\Desktop\UI Controls\WPFModernVerticalMenu\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\JEYDERHT\Desktop\UI Controls\WPFModernVerticalMenu\obj\Debug\Styles\MainStyle.baml
+C:\Users\JEYDERHT\Desktop\UI Controls\WPFModernVerticalMenu\obj\Debug\Pages\Home.g.cs
+C:\Users\JEYDERHT\Desktop\UI Controls\WPFModernVerticalMenu\obj\Debug\Pages\Home.baml
+C:\Users\JEYDERHT\Desktop\UI Controls\WPFModernVerticalMenu\obj\Debug\Pages\Dashboard.g.cs
+C:\Users\JEYDERHT\Desktop\UI Controls\WPFModernVerticalMenu\obj\Debug\Pages\Dashboard.baml
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\WPFModernVerticalMenu.exe.config
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\WPFModernVerticalMenu.exe
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\WPFModernVerticalMenu.pdb
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\obj\Debug\WPFModernVerticalMenu.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\obj\Debug\Controls\MenuItem.g.cs
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\obj\Debug\Controls\UserPopup.g.cs
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\obj\Debug\MainWindow.g.cs
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\obj\Debug\Pages\Dashboard.g.cs
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\obj\Debug\Pages\Home.g.cs
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\obj\Debug\App.g.cs
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\obj\Debug\WPFModernVerticalMenu_MarkupCompile.cache
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\obj\Debug\WPFModernVerticalMenu_MarkupCompile.lref
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\obj\Debug\App.baml
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\obj\Debug\Assets\Icons.baml
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\obj\Debug\Controls\MenuItem.baml
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\obj\Debug\Controls\UserPopup.baml
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\obj\Debug\MainWindow.baml
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\obj\Debug\Pages\Dashboard.baml
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\obj\Debug\Pages\Home.baml
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\obj\Debug\Styles\MainStyle.baml
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\obj\Debug\Themes\DarkTheme.baml
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\obj\Debug\WPFModernVerticalMenu.g.resources
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\obj\Debug\WPFModernVerticalMenu.Properties.Resources.resources
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\obj\Debug\WPFModernVerticalMenu.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\obj\Debug\WPFModernVerticalMenu.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\obj\Debug\WPFModernVerticalMenu.exe
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\obj\Debug\WPFModernVerticalMenu.pdb
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\obj\Debug\Window1.g.cs
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\obj\Debug\Window1.baml
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\obj\Debug\Pages\utilisateur.g.cs
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\obj\Debug\Pages\utilisateur.baml
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\Google.Protobuf.dll
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\MySql.Data.dll
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\System.Buffers.dll
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\System.IO.Pipelines.dll
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\System.Memory.dll
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\ZstdSharp.dll
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\Google.Protobuf.pdb
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\Google.Protobuf.xml
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\MySql.Data.xml
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\System.Buffers.xml
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\System.IO.Pipelines.xml
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\System.Memory.xml
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC\Desktop\MenuWPF\WPFModernVerticalMenu-main\obj\Debug\WPFModernVerticalMenu.csproj.CopyComplete
